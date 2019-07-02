@@ -1,0 +1,33 @@
+#login {
+    border: solid black 1px;
+    margin-left: 570px;
+    margin-right: 522px;
+    padding: 39px;
+    margin-top: 123px;
+    background-color: #a5e66470;
+}
+
+#header {
+    text-align: center;
+}
+
+#username,
+#password {
+    border-radius: 4px;
+    border-style: groove;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.button {
+    border-radius: 12px;
+    box-shadow: none;
+    background-color: white;
+}
+
+body {
+    background-color: #dcd9d40d;
+}
